@@ -1,0 +1,30 @@
+/* headerDashboard.module.css */
+
+.card__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .card {
+    background-color: #f8f9fa; /* Warna latar belakang */
+    border-radius: 18px; /* Border radius */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Efek bayangan */
+    padding: 20px; /* Padding di dalam kartu */
+    /* text-align: center;  */
+    width: 100%; /* Lebar kartu */
+  }
+  
+  .title__welcome {
+    font-size: 18px; /* Ukuran font */
+    color: #6c757d; /* Warna font */
+    margin: 0; /* Margin 0 */
+  }
+  
+  .title {
+    font-size: 24px; /* Ukuran font */
+    color: #343a40; /* Warna font */
+    margin: 10px 0 0 0; /* Margin atas 10px, lainnya 0 */
+  }
+  
